@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pwlasny1
 - 👀 I’m INTERESTED IN CONSTANT WORK WITH THE POSSIBILITY OF DEVELOPMENT
-- 🌱 I’m currently learning html,css,javascript,VUE framework
+- 🌱 I’m currently learning HTML,CSS,JAVA SCRIPT,VUE framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
